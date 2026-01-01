@@ -1,4 +1,4 @@
-# Car Racing Simulator OOP Console Game
+# Car Racing Simulator
 
 This project is a Python console-based game developed to practice object-oriented programming concepts.
 
